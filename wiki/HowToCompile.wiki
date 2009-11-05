@@ -1,0 +1,16 @@
+#How to compile.
+
+=Linux=
+
+If you compiled Pidgin from source, the following will suffice to compile this plugin:
+  * Download the source code tarball
+  * Extract the tarball
+  * open a console window
+  * type "make"
+  * you should then get a file pidgin-guiops.so
+  * copy pidgin-guiops.so to your ~/.purple/plugins directory
+
+
+=Win32=
+
+Still to be completed...
