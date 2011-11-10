@@ -14,7 +14,7 @@ If you compiled Pidgin from source, the following will suffice to compile this p
 If you didn't compile Pidgin from source, you will get errors while compiling the GUIOps plugin. To solve this, install the packages
 
  * pidgin-dev (thanks tolean.dj)
- * purple-dev
+ * libpurple-dev
 
 and compile again.
 
