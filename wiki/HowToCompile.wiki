@@ -22,3 +22,5 @@ and compile again.
 =Win32=
 
 Still to be completed...
+
+sudo apt-get install mingw32 mingw32-binutils mingw32-runtime
