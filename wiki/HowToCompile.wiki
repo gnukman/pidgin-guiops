@@ -21,4 +21,4 @@ and compile again.
 
 =Win32=
 
-Still to be completed...
+As of version 0.5.1, the source code package contains a script cross_compile.sh. Execute this script to compile the win32 dll on a Debian or Ubuntu machine.
